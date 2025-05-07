@@ -11,13 +11,15 @@
     {
       "name": "a-la-une",
       "title": "à la une",
-      "description": "",
-      "mode": "no-view"
+      "description": "Affiche les dernières nouvelles de lemonde.fr",
+      "mode": "view"
     }
   ],
+  "categories": ["productivity", "news"],
   "dependencies": {
     "@raycast/api": "^1.97.1",
-    "@raycast/utils": "^1.17.0"
+    "@raycast/utils": "^1.17.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.0.4",
