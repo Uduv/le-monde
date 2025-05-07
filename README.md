@@ -11,7 +11,8 @@ Consultez les dernières nouvelles de [lemonde.fr](https://www.lemonde.fr) direc
 
 ## Screenshots
 
-<img src="assets/le-monde-screenshot.png" width="600" />
+<img src="assets/image-1.png" width="600" />
+<img src="assets/image-2.png" width="600" />
 
 ## Install
 
