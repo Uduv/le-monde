@@ -10,12 +10,12 @@
   "commands": [
     {
       "name": "a-la-une",
-      "title": "à la une",
+      "title": "À La Une",
       "description": "Affiche les dernières nouvelles de lemonde.fr",
       "mode": "view"
     }
   ],
-  "categories": ["productivity", "news"],
+  "categories": ["Productivity", "News"],
   "dependencies": {
     "@raycast/api": "^1.97.1",
     "@raycast/utils": "^1.17.0",

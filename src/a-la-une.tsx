@@ -46,11 +46,11 @@ export default function Command() {
           actions={
             <ActionPanel>
               <Action
-                title="Lire l'article"
+                title="Lire L'article"
                 onAction={() => push(<ArticleDetail item={item} />)} // ✅ Opens in full page
               />
               <Action.OpenInBrowser
-                title="Ouvrir dans le navigateur"
+                title="Ouvrir Dans Le Navigateur"
                 url={item.link}
                 shortcut={{ modifiers: ["cmd"], key: "enter" }} // ✅ Cmd+Enter opens browser
               />
@@ -68,7 +68,7 @@ function ArticleDetail({ item }: { item: NewsItem }) {
       markdown={`# ${item.title}\n\n${item.content}\n\n[Lire sur lemonde.fr](${item.link})`}
       actions={
         <ActionPanel>
-          <Action.OpenInBrowser title="Ouvrir l'article dans le navigateur" url={item.link} />
+          <Action.OpenInBrowser title="Ouvrir L'article Dans Le Navigateur" url={item.link} />
         </ActionPanel>
       }
     />

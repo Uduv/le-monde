@@ -16,7 +16,7 @@ Consultez les dernières nouvelles de [lemonde.fr](https://www.lemonde.fr) direc
 
 ## Install
 
-Disponible bientôt sur le [Raycast Store](https://www.raycast.com/store).
+Disponible sur le [Raycast Store](https://www.raycast.com/uduv/le-monde).
 
 ## Author
 
