@@ -20,4 +20,4 @@ Disponible bientôt sur le [Raycast Store](https://www.raycast.com/store).
 
 ## Author
 
-[Ton Nom](https://github.com/ton-github)
+[uduv](https://github.com/uduv)
